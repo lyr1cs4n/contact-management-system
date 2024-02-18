@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1666296604 source:f:\coding\oop\main.cpp
+	<iostream>
+	<string>
+
+1677452689 source:h:\coding\oop\main.cpp
+	<iostream>
+
+1678409646 source:g:\coding\oop\main.cpp
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<iostream>
+	"ContactBook.h"
+	<windows.h>
+
+1677528878 g:\coding\oop\include\car.h
+	<string>
+
+1677528878 source:g:\coding\oop\src\car.cpp
+	"car.h"
+	<iostream>
+
+1678409808 source:g:\coding\oop\src\contact.cpp
+	"contact.h"
+
+1678409510 g:\coding\oop\include\contact.h
+	<bits/stdc++.h>
+	"phone.h"
+	"address.h"
+	"email.h"
+
+1678409031 source:g:\coding\oop\src\contactbook.cpp
+	"ContactBook.h"
+
+1678409808 g:\coding\oop\include\contactbook.h
+	<bits/stdc++.h>
+	"contact.h"
+
+1678409044 source:g:\coding\oop\src\phone.cpp
+	"phone.h"
+
+1678459302 g:\coding\oop\include\phone.h
+	<bits/stdc++.h>
+
+1678409510 g:\coding\oop\include\address.h
+	<bits/stdc++.h>
+
+1678409510 source:g:\coding\oop\src\address.cpp
+	"address.h"
+
+1678408852 source:g:\coding\oop\src\email.cpp
+	"email.h"
+
+1678306807 g:\coding\oop\include\email.h
+	<bits/stdc++.h>
+
+1678578247 source:g:\uni 2\programming 2\oop\oop\main.cpp
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<iostream>
+	"ContactBook.h"
+	<windows.h>
+
+1678409808 g:\uni 2\programming 2\oop\oop\include\contactbook.h
+	<bits/stdc++.h>
+	"contact.h"
+
+1678409510 g:\uni 2\programming 2\oop\oop\include\contact.h
+	<bits/stdc++.h>
+	"phone.h"
+	"address.h"
+	"email.h"
+
+1678459302 g:\uni 2\programming 2\oop\oop\include\phone.h
+	<bits/stdc++.h>
+
+1678409510 g:\uni 2\programming 2\oop\oop\include\address.h
+	<bits/stdc++.h>
+
+1678306807 g:\uni 2\programming 2\oop\oop\include\email.h
+	<bits/stdc++.h>
+
+1678409510 source:g:\uni 2\programming 2\oop\oop\src\address.cpp
+	"address.h"
+
+1678409808 source:g:\uni 2\programming 2\oop\oop\src\contact.cpp
+	"contact.h"
+
+1678578376 source:g:\uni 2\programming 2\oop\oop\src\contactbook.cpp
+	"ContactBook.h"
+
+1678408852 source:g:\uni 2\programming 2\oop\oop\src\email.cpp
+	"email.h"
+
+1678409044 source:g:\uni 2\programming 2\oop\oop\src\phone.cpp
+	"phone.h"
+
+1678818218 source:g:\uni 2\programming 2\oop\project\oop\main.cpp
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	<iostream>
+	"ContactBook.h"
+	<windows.h>
+
+1678816654 g:\uni 2\programming 2\oop\project\oop\include\contactbook.h
+	<bits/stdc++.h>
+	"contact.h"
+
+1678815602 g:\uni 2\programming 2\oop\project\oop\include\contact.h
+	<bits/stdc++.h>
+	"phone.h"
+	"address.h"
+	"email.h"
+
+1678814540 g:\uni 2\programming 2\oop\project\oop\include\phone.h
+	<bits/stdc++.h>
+
+1678814540 g:\uni 2\programming 2\oop\project\oop\include\address.h
+	<bits/stdc++.h>
+
+1678814824 g:\uni 2\programming 2\oop\project\oop\include\email.h
+	<bits/stdc++.h>
+
+1678409510 source:g:\uni 2\programming 2\oop\project\oop\src\address.cpp
+	"address.h"
+
+1678816654 source:g:\uni 2\programming 2\oop\project\oop\src\contact.cpp
+	"contact.h"
+
+1678818481 source:g:\uni 2\programming 2\oop\project\oop\src\contactbook.cpp
+	"ContactBook.h"
+
+1678408852 source:g:\uni 2\programming 2\oop\project\oop\src\email.cpp
+	"email.h"
+
+1678409044 source:g:\uni 2\programming 2\oop\project\oop\src\phone.cpp
+	"phone.h"
+
